@@ -1,6 +1,6 @@
 {
-  "Authenticated_User": {
-    "b137ab9a49971ea4": "Authorized",
-    "0c71792b2c6bef33": "Authorized"
-  }
+  "Authenticated_User": [
+    "b137ab9a49971ea4",
+    "0c71792b2c6bef33"
+  ]
 }
